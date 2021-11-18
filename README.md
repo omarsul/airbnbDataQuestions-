@@ -1,6 +1,7 @@
 # airbnbDataQuestions-
 
-i couldn't ulpload the data becouse its big
+i couldn't ulpload the data becouse its big.
+
 this some questions has been answered by analysing airbnb seattle data, 
 removed the rows of null values then removed the dollar($) sign and the comma(,) from the price for more accuracy, then got the highest and lowest prices. 
 
