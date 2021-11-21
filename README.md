@@ -1,12 +1,23 @@
 # airbnbDataQuestions-
 
-i couldn't ulpload the data becouse its big.
+# motivation
 
-this some questions has been answered by analysing airbnb seattle data, 
-removed the rows of null values then removed the dollar($) sign and the comma(,) from the price for more accuracy, then got the highest and lowest prices. 
+this data been analysed to get idea about renting an apartment using airBnb in seattle and how to get the most of it based on data of airBnb seattle 2016.
 
-then showed the most common price been offerd in the city,by applying the value_counts function.
+## Installation
 
-then i looked for their availability through the year and showed it as a plot, reading the listings data then droped colunms with null values then ploting column of avalibaility_360 and using hist kind.
+in this study jupyter notebook is used feel free to download it check out this code.
+https://jupyter.org/install
 
+## Datasets
+https://www.kaggle.com/airbnb/seattle/data
+
+## Contributing
+Pull requests are welcome. For any ideas or comments feel free to contact me 
+
+## Contact
+its omar - Email: omarsu.dev@gmail.com 
 MY BLOG : https://medium.com/@omarsu.dev/seattle-vacation-rental-prices-e95128a4b91 
+
+## Acknowledgments 
+this is the first project @udacity
