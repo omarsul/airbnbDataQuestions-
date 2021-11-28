@@ -1,4 +1,4 @@
-
+you can open this file : blogCode.ipynb  using jupyter notebook to check the code 
 
 # Motivation
 
